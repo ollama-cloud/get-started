@@ -147,4 +147,4 @@ Now, you're all set to kick ass!
  - [Create your first application](docs/tutorials/create-first-app.md)
 
 ## Acknowledgement
-This project stands on the shoulders of the projects mentioned, including ollama. Show your support by leaving a ⭐ if you find them useful.
+This project stands on the shoulders of the projects mentioned in the introduction, as well as ollama itself. Please show your support by leaving a ⭐ if you find them useful.
