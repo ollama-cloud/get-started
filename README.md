@@ -20,6 +20,8 @@ https://github.com/ollama-cloud/get-started/assets/76626119/f9bd279f-5159-4b89-9
 
 </div>
 
+**This is not a Code repository, please read [Components](#components)**
+
 Development usually kicks off on your local machine, comfy and controlled.
 <div align="center">
 <picture>
@@ -54,6 +56,8 @@ What you see locally is what you get in production. Basically, "Local Is Product
 
 Now you can focus on building amazing AI applications without worrying about the usual steps involved in taking them to production, such as DevOps or service dependencies. You can relax, as now it's a mere git push away!
 
+
+## Components
 **Ollama Cloud** is based on the following components:
 
 - [tau](https://github.com/taubyte/tau): The implementation of [taubyte](https://github.com/taubyte), a solution to build autonomous cloud computing platforms.
