@@ -57,7 +57,7 @@ Now you can focus on building amazing AI applications without worrying about the
 **Ollama Cloud** is based on the following components:
 
 - [tau](https://github.com/taubyte/tau): The implementation of [taubyte](https://github.com/taubyte), a solution to build autonomous cloud computing platforms.
-- [ollama plugin](https://github.com/samyfodil/ollama): A plugin that allows calling [ollama](https://github.com/ollama/ollama) from WebAssembly.
+- [ollama plugin](https://github.com/ollama-cloud/ollama-as-wasm-plugin): A plugin that allows calling [ollama](https://github.com/ollama/ollama) from WebAssembly.
 - [dreamland](https://github.com/taubyte/dreamland): A tool that allows running a taubyte based cloud on your computer for local development and E2E automated testing.
 
 
