@@ -6,21 +6,19 @@
     </picture>
   </a>
   <br />
-  Get Started with Ollama Cloud
+  Ollama Cloud
+
 </h1>
-<div align="center">
 
-<!-- [![Release](https://img.shields.io/github/release/taubyte/tau.svg)](https://github.com/taubyte/tau/releases)
-[![License](https://img.shields.io/github/license/taubyte/tau)](LICENSE)
-[![Go Report Card](https://goreportcard.com/badge/taubyte/tau)](https://goreportcard.com/report/taubyte/tau)
-[![GoDoc](https://godoc.org/github.com/taubyte/tau?status.svg)](https://pkg.go.dev/github.com/taubyte/tau)
-[![Discord](https://img.shields.io/discord/973677117722202152?color=%235865f2&label=discord)](https://discord.gg/NFhh5X3V) -->
-
-</div>
+**Ollama Cloud** is a Highly Scalable Cloud-native Stack for **Ollama**. Help us shine by turning a ★ into a ⭐!
 
 <br />
 
-**Ollama Cloud** is a Highly Scalable Cloud-native Stack for **Ollama**. Help us shine by turning a ★ into a ⭐!
+<div align="center">
+
+https://github.com/ollama-cloud/get-started/assets/76626119/f9bd279f-5159-4b89-9e61-0f18b142243d
+
+</div>
 
 Development usually kicks off on your local machine, comfy and controlled.
 <div align="center">
