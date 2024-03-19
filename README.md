@@ -16,9 +16,6 @@
 
 **This is not a Code repository, please read [Components](#components)**
 
-<div align="center">
-https://github.com/ollama-cloud/get-started/assets/76626119/f9bd279f-5159-4b89-9e61-0f18b142243d
-</div>
 <br/>
 
 Development usually kicks off on your local machine, comfy and controlled.
